@@ -1,0 +1,12 @@
+ steps for inital equilibrium:   1000
+        steps for measurement: 100000
+       measurement temperature   0.100000001490E+00
+please input the potential B between(-1.5) and (-0.5):
+please input the initial coordinate:
+please input the reference temperature:
+         finish reading input.
+                 potential B :   0.500000000000E+00
+           inital coordinate :  -0.100000000000E+01
+       reference temperature :   0.100000000000E+02
+MeanCoord=   0.989524821813E+00 errorCoord   0.105347950150E-02
+MeanPotential=   0.345761907240E-02 errorPotential   0.131894722664E-03
